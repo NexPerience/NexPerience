@@ -1,3 +1,17 @@
+NeXPerience
+===========
+
+For Nexus devices:
+
+repo init -u git://github.com/NexPerience/NexPerience.git -b cm-10.2
+
+
+Then to sync up:
+
+    repo sync
+
+========================================================================================================
+
 CyanogenMod
 ===========
 
