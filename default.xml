@@ -417,6 +417,6 @@
   <!-- Nexus 7 support TeamMEX (klozz)-->
   <project path="vendor/nxp/grouper" name="NexPerience/android_vendor_nxp_grouper" />
   <project path="vendor/nvidia/grouper" name="NexPerience/android_vendor_nvidia_grouper" />
-  
+  <project path="vendor/elan/grouper" name="NexPerience/android_vendor_elan_grouper" />
   
 </manifest>
