@@ -419,6 +419,7 @@
   <project path="vendor/nvidia/grouper" name="NexPerience/android_vendor_nvidia_grouper" />
   <project path="vendor/elan/grouper" name="NexPerience/android_vendor_elan_grouper" />
   <project path="device/asus/grouper" name="NexPerience/android_device_asus_grouper" />
+  <project path="kernel/asus/grouper" name="NexPerience/android_kernel_asus_grouper" />
   
   
 </manifest>
