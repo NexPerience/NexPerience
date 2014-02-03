@@ -494,4 +494,6 @@
   <project name="NexPerience/android_hardware_qcom_display-msm8226" path="hardware/qcom/display-caf-new" remote="github" revision="cm-11.0" />
   <project name="NexPerience/android_hardware_qcom_media-msm8226" path="hardware/qcom/media-caf-new" remote="github" revision="cm-11.0" />
   <project name="NexPerience/android_hardware_qcom_audio-msm8226" path="hardware/qcom/audio-caf-new" remote="github" revision="cm-11.0" />
+  <project name="NexPerience/android_device_motorola_falcon_xt1032" path="device/motorola/xt1032" />
+  <project name="NexPerience/android_device_motorola_msm8226-common" path="device/motorola/msm8226-common" remote="github" revision="cm-11.0" />
 </manifest>
